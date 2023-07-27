@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "src": "bachelor.png",
+    "occupation": "bachelor"
+  },
+  {
+    "id": 2,
+    "src": "couple.png",
+    "occupation": "couple"
+  },
+  {
+    "id": 3,
+    "src": "doctor.png",
+    "occupation": "doctor"
+  },
+  {
+    "id": 4,
+    "src": "unicorn.png",
+    "occupation": "unicorn"
+  }
+]
