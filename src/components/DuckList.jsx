@@ -24,9 +24,9 @@ function DuckList() {
   }
 
   return (
-    <div>
-     <h1>Duck List</h1>
-      <ul>
+    <div className='duck-list'>
+     <h1 className='duck-list__title' >Duck List</h1>
+      <ul className='duck-list__container'>
         {duckList.map((duck) => (
           <li key={duck.id}>
            <DuckItem key={duck.id} duck={duck} />
